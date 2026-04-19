@@ -1,39 +1,24 @@
 # QR Code Generator
 
-[![Try Online](https://img.shields.io/badge/Try%20Online-risetop.top-blue)](https://risetop.top/qr-code-generator.html)
+Generate QR codes for URLs, plain text, WiFi credentials, email addresses, phone numbers, and more.
 
-Generate QR codes for URLs, text, and more
+## Features
 
-## ✨ Features
+- Multiple QR code types: URL, Text, WiFi, Email, Phone, SMS
+- Customizable foreground and background colors
+- Adjustable size and error correction level
+- Download as PNG or SVG
+- Instant preview
+- No server processing — runs in your browser
 
-- **Free & Online** — No installation required, works entirely in your browser
-- **Fast & Lightweight** — Instant results with minimal page load
-- **Clean Interface** — Simple, intuitive design focused on usability
-- **No Data Stored** — All processing happens locally on your device
-- **Mobile Friendly** — Works on desktop, tablet, and mobile
+## Try It Online
 
-## 🚀 How to Use
+👉 **[QR Code Generator](https://risetop.top/qr-code-generator.html)** — Free online tool, no sign-up required.
 
-1. Visit [risetop.top/qr-code-generator.html](https://risetop.top/qr-code-generator.html)
-2. Enter your input in the provided field
-3. Get instant results
+## How It Works
 
-## 🛠️ Use Cases
+Uses a pure JavaScript QR code library to generate codes client-side. Supports QR Code Model 2 with error correction levels L, M, Q, and H.
 
-- **Developers** — Quick utility during development and debugging
-- **Designers** — Color picking, placeholder text, image conversion
-- **Security** — Password generation, hash creation, JWT inspection
-- **Content Creators** — Markdown editing, text comparison
-- **Students & Learners** — Understanding encoding, hashing, and data formats
+## License
 
-## 🔗 Online Tool
-
-👉 **Use now:** [https://risetop.top/qr-code-generator.html](https://risetop.top/qr-code-generator.html)
-
-## 📦 About
-
-Generate QR codes for URLs, text, and more. Built with performance and simplicity in mind.
-
----
-
-**Keywords:** qr,code,generator, online tool, free tool, web utility, developer tool, browser tool
+MIT License — use freely in your own projects.
